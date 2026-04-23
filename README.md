@@ -1,18 +1,20 @@
 <h1 align="center">Abdul Basit ⚡️</h1> 
 
 <p align="center">
-  <b>AI Engineer</b> • <b>Computer Vision</b> • <b>Embedded AI (Jetson Nano)</b>
+  <b>AI Engineer | AI Agents, LLMs, OpenAI API, RAG, Automation, CV</b>
   <br/>
   <b>MS Artificial Intelligence @ NUST (Ranked 1st - 3.92 CGPA)</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Computer+Vision+%7C+YOLO+%7C+Deep+Learning;Embedded+AI+%7C+Jetson+Nano+%7C+Edge+Deployment;AI+Systems+%7C+Real-Time+Inference+%7C+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=AI+Agents+%7C+LLMs+%7C+RAG+Pipelines;Computer+Vision+%7C+Edge+Deployment+%7C+CUDA;MLOps+%7C+Model+Quantization+%7C+System+Automation" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  I build <b>real-world AI systems</b> focused on <b>computer vision</b>, <b>edge deployment</b>, and <b>high-performance inference</b>.
+  AI Engineer architecting production-ready ML systems. I specialize in building scalable RAG pipelines, fine-tuning LLMs (LoRA), and deploying high-performance computer vision models to the edge using CUDA and quantization.
 </p>
+
+<br>
 
 <p align="center">
   <a href="mailto:aiwithbasit@gmail.com"><img src="https://img.shields.io/badge/Email-aiwithbasit%40gmail.com-0e75b6?logo=gmail&logoColor=white" /></a>
