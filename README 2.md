@@ -1,10 +1,12 @@
 <h1 align="center">Abdul Basit</h1>
 
-<h3 align="center">AI Engineer • Computer Vision • Embedded AI</h3>
+<h3 align="center">AI Engineer • Computer Vision • Agentic AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Computer+Vision+Specialist;YOLO+%7C+Deep+Learning+%7C+TensorRT;Jetson+Nano+%7C+Edge+AI+Deployment;Real-Time+Inference+%7C+Production-Focused+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+End-to-End+ML+Systems+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision+%7C+Production+MLOps;Scalable+RAG+Pipelines+%7C+LLM+Fine-Tuning+%7C+Langchain;Automation+%7C+API+%7C+Edge+Deployment" alt="Typing Animation" />
 </p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6FDA44&height=140&section=header&text=Building%20Real-World%20AI%20Systems&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
