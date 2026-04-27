@@ -94,9 +94,30 @@ TensorFlow • PyTorch • OpenCV • NumPy • Scikit-learn
 
 <h3>📈 GitHub Stats</h3>
 
+<!-- <h3 align="center">📊 GitHub Analytics</h3> -->
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aibasit&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aibasit&theme=tokyonight&hide_border=true" />
 </p>
+
+<!-- <p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aibasit&theme=tokyonight&hide_border=true" />
+</p> -->
+
+<p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aibasit&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aibasit&theme=tokyonight&v=1" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aibasit&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
 
 <p align="center">
   <b>Let’s build real-world AI systems.</b> 🚀  
