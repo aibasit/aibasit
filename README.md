@@ -6,16 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+End-to-End+ML+Systems+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision+%7C+Production+MLOps;Scalable+RAG+Pipelines+%7C+LLM+Fine-Tuning+%7C+Langchain;Automation+%7C+API+%7C+Edge+Deployment" alt="Typing Animation" />
 </p>
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6FDA44&height=140&section=header&text=Building%20Real-World%20AI%20Systems&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  I build <b>production-focused AI systems</b> in <b>computer vision</b>, <b>edge deployment</b>, and <b>real-time inference</b> with a strong focus on performance, optimization, and practical deployment.
+  I build <b>production-focused AI systems</b>—ranging from <b>automated LLM workflows</b> to <b>optimized computer vision deployments</b>—designed to solve complex bottlenecks, streamline operations, and drive measurable business growth.
 </p>
-
 
 <p align="center">
   <a href="mailto:aiwithbasit@gmail.com">
@@ -32,21 +29,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aibasit&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-</p>
-
 <hr/>
 
 <table>
   <tr>
     <td width="60%">
-      <h3>⚡ Snapshot</h3>
+      <h3>Snapshot</h3>
       <ul>
-        <li><b>AI Engineer</b> specializing in Computer Vision & Deep Learning</li>
-        <li>Focused on <b>real-time AI systems</b> and <b>edge deployment</b></li>
-        <li>Experience with <b>YOLO, TensorFlow, PyTorch, OpenCV</b></li>
-        <li>Building optimized pipelines using <b>TensorRT, FP16/INT8</b></li>
+        <li><b>Senior AI Engineer</b> specializing in process automation, Custom LLMs, and Computer Vision</li>
+        <li>Focused on building <b>scalable AI solutions</b> that drive revenue and operational efficiency</li>
+        <li>Experience architecting with <b>LangChain, OpenAI API, YOLO, PyTorch, and TensorFlow</b></li>
+        <li>Deploying enterprise-ready pipelines via <b>Docker, Cloud APIs, and Edge (TensorRT)</b></li>
       </ul>
     </td>
     <td width="40%">
@@ -55,72 +48,57 @@
   </tr>
 </table>
 
-<h3>🎓 Education</h3>
+<h3>Education</h3>
 
 - **MS Artificial Intelligence** — NUST CEME (Islamabad)  
   **CGPA: 3.92 / 4.00 (Ranked 1st)**  
 - **Coursework:** Deep Learning, Computer Vision, NLP, Embedded AI, Cybersecurity  
 
-<h3>🚀 Featured Projects</h3>
+<h3>Featured Projects</h3>
 
-- **🔥 Smoke & Fire Detection (Jetson Nano)**  
-  Real-time detection using YOLO with TensorRT optimization (≤100ms inference)
+*(Note: Ensure your pinned repositories match these projects)*
 
-- **🎤 Whisper Speech-to-Text System**  
-  Real-time transcription using OpenAI Whisper with microphone + file input
+- **Automated Agentic Workflows (LLMs & LangChain)**  
+  Built custom language models and autonomous agents designed to automate complex business data processing, reducing manual operational hours and scaling output.
 
-- **🧠 Breast Cancer Detection (TensorFlow)**  
-  ML classification using UCI dataset with performance evaluation
+- **Smart Parking Optimization (YOLO)**  
+  Developed a real-time computer vision system for automated parking lot tracking, enabling commercial facilities to optimize space utilization and increase daily revenue.
 
-- **🚗 Smart Parking Detection (YOLO)**  
-  Real-time parking occupancy detection using computer vision
+- **Industrial Safety Automation (Jetson Nano)**  
+  Engineered a real-time smoke & fire detection system using TensorRT-optimized YOLO. Reduces industrial risk and ensures compliance with ≤100ms inference on edge devices.
 
-<h3>🧠 AI Engineering Skills</h3>
+- **Enterprise Speech-to-Text Pipeline**  
+  Deployed an automated transcription system using OpenAI Whisper to streamline audio data processing, drastically improving reporting turnaround times.
 
-<b>Core AI Skills:</b>  
-Computer Vision • Object Detection (YOLO) • CNNs • Deep Learning • Model Optimization • Real-Time Inference  
+<h3>AI Engineering Skills</h3>
 
-<b>Systems Skills:</b>  
-Edge Deployment • TensorRT • GPU Acceleration • FP16/INT8 Quantization • Pipeline Optimization  
+<b>Core AI & Automation:</b>  
+Agentic AI • Custom LLMs • Scalable RAG Pipelines • Process Automation • Computer Vision • Predictive Analytics 
+
+<b>Systems & Deployment:</b>  
+Edge Deployment • TensorRT • GPU Acceleration • Docker • API Integration • Pipeline Optimization  
 
 <b>Tools & Frameworks:</b>  
-TensorFlow • PyTorch • OpenCV • NumPy • Scikit-learn  
+LangChain • OpenAI API • PyTorch • TensorFlow • OpenCV • YOLO 
 
-<h3>🛠 Tech Stack</h3>
+<h3>Tech Stack</h3>
 
-**AI/ML:** Python • TensorFlow • PyTorch • OpenCV • YOLO  
-**Embedded Systems:** Jetson Nano • Raspberry Pi • TensorRT  
-**Tools:** Google Colab • Git • Linux • Docker  
+**AI/ML:** Python • PyTorch • TensorFlow • LangChain • OpenCV • YOLO  
+**Deployment & Systems:** Docker • Git • Linux • API Development • Cloud  
+**Edge AI:** Jetson Nano • Raspberry Pi • TensorRT • FP16/INT8 Quantization  
 
-<h3>📈 GitHub Stats</h3>
-
-<!-- <h3 align="center">📊 GitHub Analytics</h3> -->
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aibasit&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aibasit&theme=tokyonight&hide_border=true" />
-</p> -->
+<h3>GitHub Stats</h3>
 
 <p align="center">
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aibasit&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aibasit&theme=tokyonight&v=1" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=aibasit&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aibasit&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-
-<p align="center">
-  <b>Let’s build real-world AI systems.</b> 🚀  
+  <b>Let’s build real-world AI systems that scale.</b> 🚀  
   <br/>
   <a href="mailto:aiwithbasit@gmail.com">aiwithbasit@gmail.com</a>
 </p>
